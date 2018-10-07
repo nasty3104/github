@@ -1,11 +1,10 @@
 public class HelloWorld {
-        public static void main( String[] args ) {
-                System.out.println( "Hello World!" );
-        }
+  public static void main( String[] args ) {
+    System.out.println( "Hello World!" );
+    test();
+  }
 }
 
-public class HelloWorld2 {
-  public () {
-    
-  }
+public static void test {
+  System.out.println( "method read" );
 }
